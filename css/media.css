@@ -1,0 +1,102 @@
+@media screen and (max-width:992px) {
+	.c-b {
+		flex-direction: column;
+	}
+	.utp-text {
+		width: 100%;
+		font-size: 20px;
+	}
+}
+
+
+@media screen and (max-width:767px) {
+	.utp .container img {
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 60px;
+	}
+	h1 {
+		display: block;
+		text-align: center;
+	}
+	.utp-text {
+		text-align: center;
+	}
+	.foto-head {
+		display: flex;
+		flex-direction: column;
+	}
+	.menus {
+		display: none;
+	}
+	.menu-gamb {
+		display: block;
+		cursor: pointer;
+	}
+	.menu-gamb li {
+		width: 25px;
+		height: 2px;
+		background: #c5a83f;
+		margin: 5px 0 5px 0;
+
+	}
+	.menu-open {
+		display: block;
+		position: absolute;
+		background: rgb(0 0 0 / 90%);
+		width: 100%;
+		left: 0;
+		top: 62px;
+    	font-size: 14px;
+    	padding: 20px 0 20px 20px;
+	}
+	.menu-open li {
+		margin: 18px 0;
+	}
+	audio {
+	    width: 460px;
+	}
+}
+
+
+@media screen and (max-width:520px) {
+	.header-email {
+		display: none;
+	}
+	.utp img {
+	    width: 280px;
+	}
+	.utp {
+   		padding: 120px 0 60px 0;
+	}
+	.folio {
+    	padding: 60px 0 60px 0;
+	}
+	iframe {
+		width: 100%;
+		height: auto;
+	}
+	.v1 {
+	    font-size: 34px;
+	}
+	.v2 {
+	    font-size: 60px;
+	    color: #26af5c;
+	}
+	audio {
+	    width: 360px;
+	}
+}
+
+@media screen and (max-width:420px) {
+	audio {
+	    max-width: 100%;
+	}
+}
+
+@media screen and (max-width:380px) {
+	.button {
+		font-size: 14px;
+		width: 100%;
+	}
+}
