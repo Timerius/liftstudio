@@ -95,6 +95,9 @@
 }
 
 @media screen and (max-width:380px) {
+	.link-contact {
+		text-align: center;
+	}
 	.blic {
 		text-align: start;
 	}
