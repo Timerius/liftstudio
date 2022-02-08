@@ -76,6 +76,7 @@ textarea, textarea:hover, textarea:focus, textarea:active {
 
 
 .button {
+  text-align: center;
     font-family: 'OpenSansBold';
     font-size: 16px;
     color: #000;
