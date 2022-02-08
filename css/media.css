@@ -95,8 +95,11 @@
 }
 
 @media screen and (max-width:380px) {
-	.button {
+	.link-contact {
 		text-align: center;
+	}
+	.button {
+		
 		font-size: 14px;
 		width: 100%;
 	}
