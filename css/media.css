@@ -96,6 +96,7 @@
 
 @media screen and (max-width:380px) {
 	.button {
+		text-align: center;
 		font-size: 14px;
 		width: 100%;
 	}
