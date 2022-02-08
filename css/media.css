@@ -16,7 +16,7 @@
 		margin-bottom: 60px;
 	}
 	h1 {
-		display: block;
+		display: block !important;
 		text-align: center;
 	}
 	.utp-text {
