@@ -322,6 +322,14 @@ video::-webkit-media-controls-panel {
     margin-bottom: 6px;
 }
 
+p war5 {
+  color: #c55e5e;
+    font-size: 12px;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto 20px auto;
+}
+
 .price {
     color: #fff;
     padding: 60px 0 60px 0;
