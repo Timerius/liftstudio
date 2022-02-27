@@ -324,10 +324,12 @@ video::-webkit-media-controls-panel {
 
 .vol-rub {
   background: #404040;
+  cursor: none;
 }
 
 .vol-rub::after {
   background: #404040;
+  cursor: none;
 }
 
 .war5 {
