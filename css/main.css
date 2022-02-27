@@ -322,6 +322,14 @@ video::-webkit-media-controls-panel {
     margin-bottom: 6px;
 }
 
+.vol-rub {
+  background: #404040;
+}
+
+.vol-rub::after {
+  background: #404040;
+}
+
 p war5 {
   color: #c55e5e;
     font-size: 12px;
